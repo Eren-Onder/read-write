@@ -1,0 +1,19 @@
+{
+  "name": "reader-writer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "json-as-xlsx": "^1.2.0",
+    "json-xlsx": "^0.1.2",
+    "json-xlsx-simply": "^1.0.0",
+    "jsontoxml": "^1.0.1",
+    "xlsx": "^0.16.9"
+  }
+}
